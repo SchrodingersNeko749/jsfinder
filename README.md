@@ -6,7 +6,7 @@ A web pentest program that finds <script> tags in a html file and downloads them
 ## Installation and Usage 
 1. Clone the repo
 2. Run `go build` in the project directory 
-3. ```./jsfinder -url <target url> -d >download directory> -b <beautifies javascript files> -p <pattern>```
+3. ```./jsfinder -url <target url> -d <download directory> -b <beautifies javascript files> -p <pattern>```
 
 ## Dependancy
 this program relies on a few programs
